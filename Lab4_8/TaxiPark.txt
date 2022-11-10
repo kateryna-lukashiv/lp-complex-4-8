@@ -1,0 +1,4 @@
+Renault Megane 121323.0 8.0 234 standart
+BMW X5 77675.0 10.0 240 business
+Audi A5 35446.0 11.0 345 standart
+Opel Zafira 24355.0 12.0 7 econom
